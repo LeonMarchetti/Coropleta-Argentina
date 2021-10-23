@@ -1,12 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
-editor_options: 
-  markdown: 
-    wrap: 80
----
-
 # Coropleta Argentina
 
 Muestra un mapa interactivo de la República Argentina dividida según sus
